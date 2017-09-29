@@ -1,6 +1,0 @@
-c:\users\bedim\documents\visual studio 2013\Projects\BestGameEU\BestGameEU\bin\Debug\BestGameEU.exe.config
-c:\users\bedim\documents\visual studio 2013\Projects\BestGameEU\BestGameEU\bin\Debug\BestGameEU.exe
-c:\users\bedim\documents\visual studio 2013\Projects\BestGameEU\BestGameEU\bin\Debug\BestGameEU.pdb
-c:\users\bedim\documents\visual studio 2013\Projects\BestGameEU\BestGameEU\obj\Debug\BestGameEU.csprojResolveAssemblyReference.cache
-c:\users\bedim\documents\visual studio 2013\Projects\BestGameEU\BestGameEU\obj\Debug\BestGameEU.exe
-c:\users\bedim\documents\visual studio 2013\Projects\BestGameEU\BestGameEU\obj\Debug\BestGameEU.pdb
