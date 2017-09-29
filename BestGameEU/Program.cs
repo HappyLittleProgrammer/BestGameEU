@@ -1,4 +1,5 @@
 ﻿using BestGameEU.Physics;
+using BestGameEU.Objects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,8 @@ namespace BestGameEU
         static void Main(string[] args)
         {
             Console.CursorVisible = false;
+
+            var staticObjects = new StaticObjects();
 
             var moving = new Moving();
             
